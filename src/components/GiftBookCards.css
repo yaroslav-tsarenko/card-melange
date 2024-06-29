@@ -1,0 +1,215 @@
+.your-gift-cards {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.card-backgrounds-icon,
+.tag-icon8 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.card-backgrounds-icon {
+  align-self: stretch;
+  height: 458px;
+  max-width: 100%;
+  object-fit: cover;
+}
+.tag-icon8 {
+  height: 24px;
+  width: 24px;
+  min-height: 24px;
+}
+.button9 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 73px;
+}
+.tag-icon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button8,
+.card-containers {
+  display: flex;
+  align-items: center;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 43px;
+  background-color: #b4daed;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.card-containers {
+  flex: 1;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 36px 0 37px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 489px;
+  max-width: 100%;
+}
+.your-book-cards {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.card-containers-child,
+.tag-icon10 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.card-containers-child {
+  align-self: stretch;
+  height: 458px;
+  max-width: 100%;
+  object-fit: cover;
+}
+.tag-icon10 {
+  height: 24px;
+  width: 24px;
+  min-height: 24px;
+}
+.button11 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 73px;
+}
+.tag-icon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button10,
+.card-containers1 {
+  display: flex;
+  align-items: center;
+}
+.button10 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 43px;
+  background-color: #b4daed;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+}
+.card-containers1 {
+  width: 752px;
+  background-color: #ffca00;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 36px 0 37px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+}
+.card-types,
+.gift-book-cards {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.card-types {
+  width: 1536px;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+.gift-book-cards {
+  align-self: stretch;
+  background-color: #fbfbfb;
+  overflow: hidden;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 1225px) {
+  .gift-book-cards {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .your-gift-cards {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .card-containers {
+    gap: 16px;
+    padding-top: 23px;
+    padding-bottom: 24px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .your-book-cards {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .card-containers1 {
+    gap: 16px;
+    padding-top: 23px;
+    padding-bottom: 24px;
+    box-sizing: border-box;
+  }
+  .card-types {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .your-book-cards,
+  .your-gift-cards {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .gift-book-cards {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

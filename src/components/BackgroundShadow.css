@@ -1,0 +1,112 @@
+.bannerwebp-icon {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.dealer-promotion1,
+.march-2024-xbox {
+  margin: 0;
+}
+.march-2024-xbox-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.date-31032024 {
+  position: relative;
+  line-height: 22px;
+  color: #555;
+  display: inline-block;
+  min-width: 122px;
+}
+.tag-icon14 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button15 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 48px;
+}
+.tag-icon15 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button14 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 32px;
+  background-color: #b4daed;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.banner-content {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.backgroundshadow,
+.banner-content,
+.link13 {
+  display: flex;
+  justify-content: flex-start;
+}
+.link13 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 6px;
+  gap: 32px;
+}
+.backgroundshadow {
+  width: 320px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  background-color: #fff;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 32px 27px 32px 32px;
+  box-sizing: border-box;
+  min-width: 320px;
+  text-align: center;
+  font-size: 16px;
+  color: #333;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1525px) {
+  .backgroundshadow {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 450px) {
+  .link13 {
+    gap: 16px;
+  }
+  .backgroundshadow {
+    padding-top: 21px;
+    padding-bottom: 21px;
+    box-sizing: border-box;
+  }
+}

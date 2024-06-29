@@ -1,0 +1,231 @@
+.bannerwebp-icon3 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.dealer-promotion4,
+.may-2024-xbox {
+  margin: 0;
+}
+.may-2024-xbox-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.tag-icon24 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button25 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 63px;
+}
+.tag-icon25 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button24 {
+  cursor: pointer;
+  border: 0;
+  padding: 8px 16px;
+  background-color: #b4daed;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.link25 {
+  align-self: stretch;
+  align-items: center;
+  padding: 0 5px;
+  gap: 30px;
+}
+.backgroundshadow3,
+.link-wrapper,
+.link25 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.link-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 10px;
+}
+.backgroundshadow3 {
+  width: 320px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  background-color: #fff;
+  align-items: center;
+  padding: 15px 20px;
+  box-sizing: border-box;
+}
+.bannerwebp-icon4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.dealer-promotion5,
+.may-2024-google {
+  margin: 0;
+}
+.may-2024-google-container1 {
+  width: 100%;
+}
+.may-2024-google-container {
+  width: 226px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.tag-icon26 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button27 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 63px;
+}
+.tag-icon27 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button26,
+.link26 {
+  display: flex;
+  align-items: center;
+}
+.button26 {
+  cursor: pointer;
+  border: 0;
+  padding: 8px 16px;
+  background-color: #b4daed;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 8px;
+}
+.link26 {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 30px;
+}
+.backgroundshadow4,
+.banner-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.backgroundshadow4 {
+  height: 341px;
+  width: 320px;
+  box-shadow: 0 2px 4px rgba(108, 111, 115, 0.1);
+  border-radius: 4px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 29px 25px 30px;
+}
+.banner-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 0 4px 0 0;
+  gap: 64px 84px;
+  min-height: 746px;
+}
+.banner-container-wrapper,
+.banner-container1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.banner-container1 {
+  width: 1536px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.banner-container-wrapper {
+  align-self: stretch;
+  background-color: #b4daed;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 16px;
+  color: #333;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1225px) {
+  .banner-container-wrapper {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .banner-wrapper {
+    gap: 42px;
+  }
+  .banner-container1 {
+    gap: 19px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .banner-wrapper {
+    gap: 21px;
+  }
+  .banner-container-wrapper {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

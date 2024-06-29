@@ -1,0 +1,287 @@
+.signUp,
+.signUpTo {
+  align-self: stretch;
+  position: relative;
+}
+.signUp {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.signUpTo {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #1c1c1c;
+}
+.signInTitle {
+  width: 319px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.yourName {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 80px;
+}
+.nameAddressUsernameLabels {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #ededed;
+  border: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+  white-space: nowrap;
+}
+.emailCountryPassword {
+  border: 0;
+  background-color: transparent;
+  height: 40px;
+  flex: 1;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #000;
+  min-width: 159px;
+}
+.nameAddressUsername {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.address {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 59px;
+}
+.addressWrapper {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #ededed;
+  border: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7px 11px;
+  min-width: 159px;
+}
+.country {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 56px;
+}
+.emailCountryPasswordIcons {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.countryParent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #ededed;
+  border: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.nameAddressUsername1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px;
+}
+.username {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 73px;
+}
+.nameAddressUsernameIcons {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.usernameParent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #ededed;
+  border: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.password {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 71px;
+}
+.frameChild {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.passwordParent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #ededed;
+  border: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.nameAddressUsername2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px;
+}
+.button {
+  align-self: stretch;
+  height: 54px;
+}
+.inputFields {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.orSignUp {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  display: inline-block;
+  min-width: 107px;
+}
+.socialIcons,
+.socialIcons1,
+.socialIcons2 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.signIn,
+.socialButtons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.signIn {
+  align-self: stretch;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 92px 36px;
+  gap: 36px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 825px) {
+  .signUp {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .nameAddressUsername,
+  .nameAddressUsername1,
+  .nameAddressUsername2 {
+    flex-wrap: wrap;
+  }
+  .signIn {
+    gap: 18px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .signUp {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

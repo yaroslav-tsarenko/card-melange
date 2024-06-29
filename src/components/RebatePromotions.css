@@ -1,0 +1,11 @@
+.rebate-promotions {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px 22px;
+  min-height: 786px;
+  max-width: 100%;
+}

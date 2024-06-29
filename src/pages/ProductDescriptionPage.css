@@ -1,0 +1,37 @@
+.frame-parent,
+.productdescriptionpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-self: stretch;
+  background-color: #b4daed;
+  overflow: hidden;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.productdescriptionpage {
+  width: 100%;
+  position: relative;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .frame-parent {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .frame-parent {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,222 @@
+.classic-designs {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.tag-icon18 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button19 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 76px;
+}
+.tag-icon19 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button18,
+.classic-designs-button-contain {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button18 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 32px;
+  background-color: #000;
+  border-radius: 4px;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.classic-designs-button-contain {
+  width: 370px;
+  justify-content: center;
+  max-width: 100%;
+}
+.classic-designs-parent,
+.find-favorite-slogan {
+  overflow: hidden;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.classic-designs-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 66.8px 20px 602px;
+  gap: 24px;
+  background-image: url(/public/frame-1000008071@3x.png);
+  min-width: 416px;
+  min-height: 800px;
+  max-width: 100%;
+}
+.find-favorite-slogan {
+  border: 0;
+  background-color: transparent;
+  height: 388px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 20.8px 8px 21px;
+  background-image: url(/public/find-favorite-slogan@3x.png);
+  font-family: Merriweather;
+  font-size: 18px;
+  color: #000;
+}
+.find-favorite-slogan,
+.slogan-container,
+.spread-joy-slogan {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.spread-joy-slogan {
+  border: 0;
+  background-color: transparent;
+  height: 388px;
+  width: auto;
+  outline: 0;
+  align-self: stretch;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 20.8px 10px 21px;
+  box-sizing: border-box;
+  background-image: url(/public/spread-joy-slogan@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-family: Merriweather;
+  font-size: 18px;
+  color: #1c1c1c;
+}
+.slogan-container {
+  width: 424px;
+  flex-direction: column;
+  gap: 24px;
+  max-width: 100%;
+}
+.make-every-moment {
+  position: relative;
+  line-height: 22px;
+}
+.make-every-moment-memorable-wrapper {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20.8px 6px 21px;
+  background-image: url(/public/frame-1000008072@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.start-gifting-today {
+  position: relative;
+  line-height: 22px;
+}
+.start-gifting-today-wrapper {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20.8px 7px 21px;
+  background-image: url(/public/frame-1000008073@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.main-content,
+.slogan-container1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.slogan-container1 {
+  height: 800px;
+  width: 424px;
+  flex-direction: column;
+  font-size: 18px;
+}
+.main-content {
+  align-self: stretch;
+  background-color: #fbfbfb;
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 80px 192px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 1225px) {
+  .main-content {
+    padding: 52px 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .classic-designs {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .classic-designs-parent {
+    padding-top: 43px;
+    padding-bottom: 391px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .main-content {
+    padding: 34px 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .classic-designs {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .classic-designs-parent {
+    padding-top: 28px;
+    padding-bottom: 254px;
+    box-sizing: border-box;
+  }
+}

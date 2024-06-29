@@ -1,0 +1,478 @@
+.yourDashboard {
+  display: inline-block;
+  min-width: 114px;
+}
+.yourActiveDownloads,
+.yourDashboard {
+  position: relative;
+  line-height: 22px;
+}
+.header {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #b4daed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  color: #fbfbfb;
+}
+.cardsIcon {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.129);
+}
+.wrapperCards {
+  height: 133px;
+  width: 124px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.panormaPresentsGift {
+  width: 179px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.cardDetails {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  min-width: 148px;
+}
+.downloadCreditDetails {
+  white-space: nowrap;
+}
+.credits,
+.downloadCreditDetails {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.cardCredits,
+.cardRow {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  color: #000;
+}
+.cardRow {
+  width: 560px;
+  flex-direction: row;
+  padding: 0 28px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  max-width: 100%;
+  color: #1c1c1c;
+}
+.hrs,
+.upTime1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.upTime {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.iconsBlock {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.renewalInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+}
+.april2024,
+.nextRenewal1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.nextRenewal,
+.renewalIcon {
+  display: flex;
+  align-items: flex-start;
+}
+.nextRenewal {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.renewalIcon {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 1px 0 5px;
+}
+.cancel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 49px;
+}
+.iconsBlock1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconsBlockWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.renew {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 48px;
+}
+.cancellation,
+.renewalButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.cancellation {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.renewalDetails {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.cardActions,
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.cardActions {
+  width: 179px;
+  align-items: flex-end;
+  gap: 7px;
+}
+.cardContainer {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 48px;
+  max-width: 100%;
+}
+.dashboardCardsChild {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.dashboardCards,
+.dashboardHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.dashboardCards {
+  align-self: stretch;
+  gap: 15px;
+}
+.dashboardHeader {
+  flex: 1;
+  gap: 36px;
+}
+.userDetails {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 86px;
+}
+.header1,
+.headerWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.header1 {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #b4daed;
+  overflow: hidden;
+  padding: 16px 24px;
+}
+.headerWrapper {
+  align-self: stretch;
+  padding: 0 0 4px;
+  color: #fbfbfb;
+}
+.darnellRoob,
+.name {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43px;
+}
+.darnellRoob {
+  text-align: right;
+  min-width: 91px;
+}
+.checkoutData,
+.detailItems {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.detailItems {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkoutData {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.emailAddress {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 103px;
+}
+.darnellroobhotmailcom {
+  position: relative;
+  line-height: 22px;
+  text-align: right;
+  white-space: nowrap;
+}
+.detailRows,
+.emailAddressParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.emailAddressParent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.detailRows {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.basic,
+.plan {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 32px;
+}
+.basic {
+  text-align: right;
+  min-width: 40px;
+}
+.detailRows1,
+.planParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.planParent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.detailRows1 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.april20241,
+.expiryDate {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 80px;
+}
+.april20241 {
+  text-align: right;
+  min-width: 98px;
+}
+.detailRows2,
+.expiryDateParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.expiryDateParent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.detailRows2 {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+}
+.autoRenewal,
+.on {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 98px;
+}
+.on {
+  text-align: right;
+  min-width: 20px;
+}
+.autoRenewalParent,
+.checkoutDetails,
+.detailRows3 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.autoRenewalParent {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.checkoutDetails,
+.detailRows3 {
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.detailRows3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px;
+}
+.checkoutDetails {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fbfbfb;
+  flex-direction: column;
+  padding: 0 0 32px;
+  gap: 32px;
+}
+.checkoutDetailsWrapper {
+  width: 504px;
+  background-color: #9f0132;
+  justify-content: flex-start;
+  min-width: 504px;
+}
+.checkoutDetailsWrapper,
+.dashboard,
+.dashboardHeaderParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.dashboardHeaderParent {
+  width: 1536px;
+  justify-content: flex-start;
+  gap: 47px;
+}
+.dashboard {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1275px) {
+  .checkoutDetailsWrapper {
+    flex: 1;
+  }
+  .dashboardHeaderParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .cardContainer {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .cardRow {
+    flex-wrap: wrap;
+  }
+  .cardContainer {
+    gap: 24px;
+  }
+  .dashboardHeader {
+    gap: 18px;
+    min-width: 100%;
+  }
+  .checkoutDetails {
+    gap: 16px;
+  }
+  .checkoutDetailsWrapper {
+    gap: 23px;
+    min-width: 100%;
+  }
+  .dashboardHeaderParent {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .detailItems,
+  .emailAddressParent,
+  .expiryDateParent,
+  .planParent {
+    flex-wrap: wrap;
+  }
+}

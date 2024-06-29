@@ -1,0 +1,353 @@
+.heading-1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 106px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.b95c60b-b1e4-415f-b08e-2fbbbd2-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.hypermarkets,
+.link4 {
+  display: flex;
+  align-items: center;
+}
+.hypermarkets {
+  width: 114.7px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link4 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  box-sizing: border-box;
+  gap: 11px;
+  min-width: 182px;
+  max-width: 186px;
+}
+.b037d2be-acb4-4812-808c-750903-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.link5,
+.online-shopping {
+  display: flex;
+  align-items: center;
+}
+.online-shopping {
+  width: 133.5px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link5 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  box-sizing: border-box;
+  gap: 11px;
+  min-width: 182px;
+  max-width: 186px;
+}
+.b65-5dac-482d-ac53-2a54f41bde8-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.fashion,
+.link6 {
+  display: flex;
+  align-items: center;
+}
+.fashion {
+  width: 63.2px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+  min-width: 63.2px;
+}
+.link6 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  box-sizing: border-box;
+  gap: 11px;
+  min-width: 182px;
+  max-width: 186px;
+}
+.d7ddd52-967f-4589-8e11-63a9b72-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.electronics,
+.link7 {
+  display: flex;
+  align-items: center;
+}
+.electronics {
+  width: 87.5px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+  min-width: 87.5px;
+}
+.link7 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  box-sizing: border-box;
+  gap: 11px;
+  min-width: 182px;
+  max-width: 186px;
+}
+.e94332-b1f8-47fd-9a64-583a3201-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.home-garden {
+  width: 129.3px;
+  position: relative;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.category-row-one,
+.link8 {
+  display: flex;
+  justify-content: flex-start;
+}
+.link8 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 11px;
+  box-sizing: border-box;
+  gap: 11px;
+  min-width: 182px;
+  max-width: 186px;
+}
+.category-row-one {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 24px;
+}
+.e1f12a5c-10b2-4c51-951a-0790d6-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.link9,
+.shopping-malls {
+  display: flex;
+  align-items: center;
+}
+.shopping-malls {
+  width: 123.9px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link9 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.f90078f9-6c63-422b-a9a6-dd3630-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.jewellery,
+.link10 {
+  display: flex;
+  align-items: center;
+}
+.jewellery {
+  width: 76.1px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+  min-width: 76.1px;
+}
+.link10 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.c11d5bc4-010e-48b0-9585-9653fb-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.gaming,
+.link11 {
+  display: flex;
+  align-items: center;
+}
+.gaming {
+  width: 65.6px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link11 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.b277666a-e464-419f-ac57-ec2c7d-icon {
+  width: 164px;
+  height: 164px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.food-delivery,
+.link12 {
+  display: flex;
+  align-items: center;
+}
+.food-delivery {
+  width: 108.2px;
+  position: relative;
+  line-height: 23px;
+  justify-content: center;
+}
+.link12 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11px;
+  gap: 11px;
+}
+.category-row-two {
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+  grid-template-columns: repeat(4, minmax(139px, 1fr));
+}
+.categories-container,
+.category-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.category-grid {
+  align-self: stretch;
+  gap: 64px;
+  text-align: center;
+  font-size: 16px;
+  color: #3a1a5f;
+  font-family: Roboto;
+}
+.categories-container {
+  width: 1026px;
+  gap: 11px;
+}
+.categories {
+  align-self: stretch;
+  background-color: #b4daed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 1225px) {
+  .category-grid {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .category-row-two {
+    margin: 0 auto;
+    grid-template-columns: repeat(2, minmax(139px, 242px));
+  }
+  .category-grid {
+    gap: 16px;
+  }
+  .categories {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .category-row-two {
+    grid-template-columns: minmax(139px, 1fr);
+  }
+}

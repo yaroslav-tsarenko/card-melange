@@ -1,0 +1,122 @@
+.dive-into-our,
+.start-exploring-now {
+  position: relative;
+  display: inline-block;
+}
+.start-exploring-now {
+  margin: 0;
+  height: 53px;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  max-width: 100%;
+}
+.dive-into-our {
+  align-self: stretch;
+  height: 57px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  text-align: center;
+  flex-shrink: 0;
+}
+.start-exploring-now-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.tag-icon20 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button21 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 53px;
+}
+.tag-icon21 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button20 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 32px;
+  background-color: #b4daed;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.explore-content,
+.explore-content-wrapper {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.explore-content {
+  width: 1280px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 36px;
+  gap: 32px;
+  background-image: url(/public/explore-content@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.explore-content-wrapper {
+  align-self: stretch;
+  background-color: #2a6ac9;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 850px) {
+  .start-exploring-now {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .explore-content {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .start-exploring-now {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .explore-content-wrapper {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

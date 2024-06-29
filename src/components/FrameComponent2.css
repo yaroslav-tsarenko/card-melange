@@ -1,0 +1,91 @@
+.bannerwebp-icon9 {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.bannerwebp-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 47px;
+}
+.dealer-promotion9,
+.january-2024-xbox {
+  margin: 0;
+}
+.january-2024-xbox-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.date-310120241 {
+  flex: 1;
+  position: relative;
+  line-height: 15px;
+  display: inline-block;
+  min-width: 118.1px;
+}
+.date-31012024-wrapper,
+.fourth-promotion-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.date-31012024-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 63px;
+  color: #555;
+  font-family: Quicksand;
+}
+.fourth-promotion-details {
+  width: 245px;
+  flex-direction: column;
+  gap: 12.3px;
+}
+.backgroundshadow-container,
+.backgroundshadow8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.backgroundshadow8 {
+  flex: 0.9519;
+  box-shadow: 0 2px 4px rgba(108, 111, 115, 0.1);
+  border-radius: 4px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 25px 37px 95px;
+  box-sizing: border-box;
+  gap: 31.7px;
+  min-width: 263px;
+}
+.backgroundshadow-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+  text-align: center;
+  font-size: 16px;
+  color: #333;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1225px) {
+  .backgroundshadow-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .backgroundshadow8 {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 62px;
+    box-sizing: border-box;
+    flex: 1;
+  }
+}

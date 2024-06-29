@@ -1,0 +1,62 @@
+.cards-products-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.makeupalley-logosvg-icon {
+  height: 22.6px;
+  width: 109.5px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  display: none;
+  z-index: 1;
+}
+.b {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 64px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.cards-products {
+  width: 402px;
+  border-radius: 10px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 12px 232px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: "Kumbh Sans";
+}
+@media screen and (max-width: 850px) {
+  .b {
+    font-size: 26px;
+    line-height: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .b {
+    font-size: 19px;
+    line-height: 13px;
+  }
+}

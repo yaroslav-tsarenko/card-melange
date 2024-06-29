@@ -1,0 +1,682 @@
+.perfect-for-every {
+  margin: 0;
+  align-self: stretch;
+  height: 53px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.explore-elements-one {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-3-icon1 {
+  width: 186px;
+  height: 186px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.explore-row-two {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 70px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.explore-labels-one {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.cards-products1 {
+  width: 402px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 39px 12px 12px 108px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 7px;
+  max-width: 100%;
+}
+.boston-container {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 64px;
+  white-space: nowrap;
+}
+.boston-container-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+.pngwing-4-icon {
+  height: 28px;
+  width: 113px;
+  position: relative;
+  object-fit: contain;
+  display: none;
+}
+.cards-products-item {
+  height: 266px;
+  width: 201.6px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.cards-products2 {
+  width: 402px;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 12px;
+  box-sizing: border-box;
+  background-image: url(/public/cards-products@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  gap: 20px;
+  color: #000;
+}
+.boston {
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 105px;
+}
+.boston,
+.gift-voucher,
+.holiday {
+  margin: 0;
+}
+.holiday-gift-voucher-container {
+  width: 148px;
+  height: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 28px;
+  display: none;
+  color: #fff;
+}
+.forest-caster-container {
+  position: relative;
+  line-height: 36px;
+  display: inline-block;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.forest-caster-container-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  text-align: left;
+  color: #000;
+}
+.cards-products-inner,
+.cards-products3 {
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.cards-products3 {
+  width: 402px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 12px 12px 17px;
+  box-sizing: border-box;
+  gap: 164px;
+  background-image: url(/public/cards-products1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  color: #1d1d1d;
+}
+.cards-products-inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.b1,
+.forest-caster {
+  position: relative;
+  z-index: 1;
+}
+.b1 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+  white-space: nowrap;
+}
+.forest-caster {
+  flex: 1;
+  line-height: 32px;
+}
+.cards-products4,
+.forest-caster-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.forest-caster-wrapper {
+  width: 175.5px;
+  flex-direction: row;
+  padding: 0 28px;
+  text-align: center;
+  font-size: 16px;
+  font-family: Kavivanar;
+}
+.cards-products4 {
+  width: 402px;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 12px 12px 9.5px;
+  position: relative;
+  gap: 190.5px;
+  max-width: 100%;
+}
+.rectangle-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.b2,
+.image-3-icon2 {
+  position: relative;
+  z-index: 1;
+}
+.image-3-icon2 {
+  height: 186px;
+  width: 186px;
+  object-fit: contain;
+}
+.b2 {
+  align-self: stretch;
+  height: 22px;
+  line-height: 22px;
+  display: inline-block;
+  white-space: nowrap;
+}
+.wrapper {
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 193px 0 0;
+  box-sizing: border-box;
+  min-width: 70px;
+}
+.cards-products5 {
+  padding: 39px 12px 12px 108px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 26px;
+}
+.cards-products5,
+.explore-container,
+.explore-row-one {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.explore-row-one {
+  width: 1804px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  gap: 24px;
+}
+.explore-container {
+  align-self: stretch;
+  padding: 0 0 0 418px;
+  box-sizing: border-box;
+}
+.image-8-icon {
+  height: 341px;
+  width: 410px;
+  position: absolute;
+  margin: 0 !important;
+  top: -51px;
+  left: -8px;
+  object-fit: cover;
+}
+.newyork {
+  margin: 0;
+  align-self: stretch;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.new-york-container {
+  width: 141px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 194px 0 0;
+  box-sizing: border-box;
+}
+.gift-voucher1,
+.holiday1 {
+  margin: 0;
+}
+.holiday-gift-voucher-container1 {
+  height: 0;
+  width: 148px;
+  position: relative;
+  font-size: 24px;
+  line-height: 28px;
+  display: none;
+  z-index: 2;
+}
+.explore-images-three {
+  position: relative;
+  line-height: 36px;
+  display: inline-block;
+  text-align: left;
+  min-width: 75px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.cards-products6 {
+  width: 402px;
+  border-radius: 10px;
+  background-color: #8b511c;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 12px 12px 24px 26px;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  gap: 20px;
+  text-align: center;
+}
+.rectangle-div {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #cba1f9, #eab4ff);
+}
+.b3,
+.image-4-icon1 {
+  position: relative;
+  z-index: 1;
+}
+.b3 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 56px;
+  white-space: nowrap;
+}
+.image-4-icon1 {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cards-products7,
+.image-4-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.image-4-wrapper {
+  height: 157.3px;
+  width: 199px;
+  flex-direction: column;
+  padding: 84px 0 0;
+}
+.cards-products7 {
+  width: 402px;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 12px 12px 96.7px;
+  position: relative;
+  gap: 33px;
+  max-width: 100%;
+}
+.cards-products-child1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+}
+.b4,
+.image-5-icon {
+  position: relative;
+  z-index: 1;
+}
+.b4 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 78px;
+  white-space: nowrap;
+}
+.image-5-icon {
+  height: 105.6px;
+  width: 94px;
+  object-fit: cover;
+}
+.image-5-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.cards-products8 {
+  width: 402px;
+  border-radius: 6px;
+  background-color: #ef3b5e;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 12px 12px 80.4px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 46px;
+  max-width: 100%;
+}
+.cards-products8,
+.explore-1,
+.explore-items-two {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.explore-items-two {
+  width: 2106px;
+  overflow-x: auto;
+  flex-direction: row;
+  gap: 24px;
+  max-width: 100%;
+}
+.explore-1 {
+  margin-left: -956.5px;
+  width: 2524px;
+  flex-direction: column;
+  gap: 41px;
+  max-width: 413%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: "Kumbh Sans";
+}
+.tag-icon12 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button13 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 81px;
+  white-space: nowrap;
+}
+.tag-icon13 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button12,
+.explore-button-instance,
+.perfect-occasion {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button12 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 32px;
+  background-color: #b4daed;
+  border-radius: 4px;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.explore-button-instance,
+.perfect-occasion {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 1px 0 0;
+}
+.perfect-occasion {
+  background-color: #fbfbfb;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 654px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 1225px) {
+  .explore-container {
+    padding-left: 209px;
+    box-sizing: border-box;
+  }
+  .perfect-occasion {
+    padding: 52px 327px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .perfect-for-every {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .boston-container,
+  .explore-row-two {
+    font-size: 26px;
+    line-height: 18px;
+  }
+  .cards-products2 {
+    flex-wrap: wrap;
+  }
+  .b1,
+  .boston,
+  .forest-caster-container {
+    font-size: 26px;
+    line-height: 29px;
+  }
+  .b1 {
+    line-height: 18px;
+  }
+  .image-3-icon2 {
+    flex: 1;
+  }
+  .b2 {
+    font-size: 26px;
+    line-height: 18px;
+  }
+  .wrapper {
+    flex: 1;
+  }
+  .cards-products5 {
+    flex-wrap: wrap;
+  }
+  .explore-container {
+    padding-left: 104px;
+    box-sizing: border-box;
+  }
+  .b3,
+  .b4,
+  .explore-images-three,
+  .newyork {
+    font-size: 26px;
+    line-height: 29px;
+  }
+  .b3,
+  .b4 {
+    line-height: 18px;
+  }
+  .explore-1 {
+    gap: 20px;
+  }
+  .perfect-occasion {
+    gap: 16px;
+    padding-left: 163px;
+    padding-right: 163px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .perfect-for-every {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .explore-row-two {
+    font-size: 19px;
+    line-height: 13px;
+  }
+  .cards-products1 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .boston-container {
+    font-size: 19px;
+    line-height: 13px;
+  }
+  .boston,
+  .forest-caster-container,
+  .holiday-gift-voucher-container {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .cards-products3 {
+    gap: 82px;
+  }
+  .b1,
+  .b2 {
+    font-size: 19px;
+    line-height: 13px;
+  }
+  .cards-products5,
+  .explore-container {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .explore-images-three,
+  .holiday-gift-voucher-container1,
+  .newyork {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .cards-products6 {
+    flex-wrap: wrap;
+  }
+  .b3 {
+    font-size: 19px;
+    line-height: 13px;
+  }
+  .cards-products7 {
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .b4 {
+    font-size: 19px;
+    line-height: 13px;
+  }
+  .cards-products8 {
+    gap: 23px;
+  }
+  .perfect-occasion {
+    padding: 34px 20px;
+    box-sizing: border-box;
+  }
+}

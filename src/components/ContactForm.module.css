@@ -1,0 +1,325 @@
+.contactInformation {
+  position: relative;
+  line-height: 22px;
+}
+.formField {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Roboto;
+  font-size: 16px;
+  color: #000;
+}
+.contactInformationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.paymentInformation {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: "Apercu Pro";
+  flex-shrink: 0;
+}
+.cardInformation {
+  color: #1c1c1c;
+  display: inline-block;
+  min-width: 121px;
+}
+.cardInformation,
+.cardNumberPlaceholder {
+  position: relative;
+  line-height: 22px;
+}
+.frameChild,
+.frameInner,
+.frameItem {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 24px;
+}
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.formField1 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+}
+.icon1,
+.mmyy {
+  position: relative;
+}
+.mmyy {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.icon1 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.formField2 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 14px 16px;
+  gap: 64px;
+  min-width: 131px;
+}
+.icon2,
+.mmyy1 {
+  position: relative;
+}
+.mmyy1 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.icon2 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.cardInformationParent,
+.formField3,
+.formFieldParent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.formField3 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+  padding: 14px 16px;
+  gap: 64px;
+  min-width: 131px;
+}
+.cardInformationParent,
+.formFieldParent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 16px;
+}
+.cardInformationParent {
+  flex-direction: column;
+  color: #fbfbfb;
+}
+.carholderName,
+.nameOnCard {
+  position: relative;
+  display: inline-block;
+}
+.carholderName {
+  line-height: 22px;
+  min-width: 116px;
+}
+.nameOnCard {
+  width: 102px;
+  border: 0;
+  outline: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  background-color: transparent;
+  height: 22px;
+  line-height: 135%;
+  color: #fbfbfb;
+  text-align: left;
+  padding: 0;
+}
+.icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.carholderNameParent,
+.formField4 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.formField4 {
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 14px 16px;
+  gap: 64px;
+}
+.carholderNameParent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.countryOrRegion,
+.usa {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 123px;
+}
+.usa {
+  min-width: 31px;
+}
+.formFieldChild,
+.icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.icon4 {
+  display: none;
+}
+.formField5 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+  color: #fbfbfb;
+}
+.countryOrRegionParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frameDiv {
+  height: 21px;
+  width: 21px;
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iVerifiedThat {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 253px;
+  max-width: 100%;
+}
+.frameGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.contactFormChild {
+  width: 324.5px;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+}
+.iVerifiedThat1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.button {
+  align-self: stretch;
+  height: 54px;
+}
+.contactForm {
+  width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .paymentInformation {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .formField1,
+  .formFieldParent,
+  .frameGroup {
+    flex-wrap: wrap;
+  }
+  .button {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,244 @@
+.signIn1,
+.signInTo {
+  align-self: stretch;
+  position: relative;
+}
+.signIn1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.signInTo {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  color: #1c1c1c;
+}
+.signInTitle {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 1px;
+  gap: 12px;
+}
+.username {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 73px;
+}
+.inputContainersIcon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.inputFields {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 12px 7px 10px;
+  gap: 20px;
+}
+.password {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 71px;
+}
+.inputFieldsChild {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.inputFields1 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fbfbfb;
+  border: 1px solid #fbfbfb;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 14px 7px 10px;
+  gap: 20px;
+}
+.button,
+.credentials {
+  align-self: stretch;
+  flex: 1;
+}
+.credentials {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.orSignIn {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Roboto;
+  display: inline-block;
+  min-width: 102px;
+}
+.socialButtonsIcon,
+.socialButtonsIcon1,
+.socialButtonsIcon2 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.signInHeading,
+.socialSignIn {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.signInHeading {
+  align-self: stretch;
+  width: 322px;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+  max-width: 100%;
+}
+.signIn,
+.signInWrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.signIn {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 85px 20px 84px;
+}
+.signInWrapper {
+  height: 731px;
+  width: 584px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 122px 0 0;
+  min-width: 584px;
+}
+.backgroundShapeIcon {
+  height: 896px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 624px;
+}
+.frameParent,
+.signinpage {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent {
+  width: 1753px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 20px;
+  box-sizing: border-box;
+  gap: 189px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Merriweather;
+}
+.signinpage {
+  width: 100%;
+  position: relative;
+  background-color: #fbfbfb;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .signInWrapper {
+    flex: 1;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+    gap: 94px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .signIn1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .signIn {
+    padding-top: 55px;
+    padding-bottom: 55px;
+    box-sizing: border-box;
+  }
+  .signInWrapper {
+    padding-top: 79px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .backgroundShapeIcon {
+    min-width: 100%;
+  }
+  .frameParent {
+    gap: 47px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .signIn1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .signInHeading {
+    gap: 18px;
+  }
+  .frameParent {
+    gap: 24px;
+  }
+}

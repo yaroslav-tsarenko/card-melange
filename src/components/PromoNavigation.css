@@ -1,0 +1,102 @@
+.link-site-manset-a1b08f909e0 {
+  align-self: stretch;
+  width: 800px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 636px;
+  max-width: 100%;
+}
+.link-site-manset-a1b08f909e0-child {
+  position: absolute;
+  top: -631px;
+  left: -584px;
+  width: 1894.3px;
+  height: 1773px;
+  object-fit: contain;
+  display: none;
+}
+.link-site-manset-a1b08f909e01 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 51px;
+  width: 800px;
+  overflow: hidden;
+  background-image: url(/public/link--site-manset-a1b08f909e0fbe0a69ac44fa564d2306webp1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.arrow-circle-left-icon,
+.arrow-circle-left-icon1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  min-height: 48px;
+}
+.arrow-circle-left-icon1 {
+  object-fit: contain;
+}
+.arrow-circle-left-parent {
+  position: absolute;
+  top: 294px;
+  left: 0;
+  width: 905px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+  z-index: 1;
+}
+.left-navigation {
+  height: 636px;
+  flex: 1;
+  position: relative;
+  min-width: 588px;
+  max-width: 100%;
+}
+.link-site-manset-a1b08f909e02 {
+  align-self: stretch;
+  width: 800px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 636px;
+  max-width: 100%;
+}
+.promo-navigation {
+  margin-left: -624px;
+  width: 2528px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11.5px;
+  max-width: 198%;
+  flex-shrink: 0;
+}
+@media screen and (max-width: 1525px) {
+  .left-navigation {
+    min-width: 100%;
+  }
+  .promo-navigation {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .arrow-circle-left-parent {
+    flex-wrap: wrap;
+  }
+  .left-navigation {
+    height: auto;
+    min-height: 636;
+  }
+}

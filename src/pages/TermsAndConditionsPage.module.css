@@ -1,0 +1,734 @@
+.termsAndConditions {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.content {
+  align-self: stretch;
+  background-color: #b4daed;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.byAccessingThis,
+.welcomeToYour {
+  margin: 0;
+}
+.lilylambKidsWeContainer {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: inline-block;
+  max-width: 100%;
+}
+.definitions1,
+.definitions2 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.definitions2 {
+  padding-left: 43px;
+}
+.definitions1 {
+  line-height: 120%;
+  font-weight: 400;
+}
+.aGiftCard,
+.definitions1,
+.giftCard {
+  align-self: stretch;
+  position: relative;
+}
+.giftCard {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.aGiftCard {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.definitionList {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.theWebsiteOwned,
+.website {
+  align-self: stretch;
+  position: relative;
+}
+.website {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.theWebsiteOwned {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.definitionAttributes {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.anyIndividualOr,
+.user {
+  align-self: stretch;
+  position: relative;
+  line-height: 29px;
+}
+.anyIndividualOr {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.definitionTypes {
+  align-self: stretch;
+  gap: 16px;
+}
+.definitionDescriptions,
+.definitionItems,
+.definitionTypes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.definitionDescriptions {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.definitionItems {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.generalProvisions,
+.generalProvisions1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.generalProvisions1 {
+  padding-left: 43px;
+}
+.generalProvisions {
+  line-height: 120%;
+  font-weight: 400;
+}
+.acceptanceOfTerms,
+.byAccessingAnd,
+.generalProvisions {
+  align-self: stretch;
+  position: relative;
+}
+.acceptanceOfTerms {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.byAccessingAnd {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.acceptanceOfTermsParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.modificationsToTerms {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.yourCompanyReserves {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.modificationsToTermsParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.governingLaw,
+.theseTermsAnd {
+  align-self: stretch;
+  position: relative;
+}
+.governingLaw {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.theseTermsAnd {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.governingLawParent {
+  align-self: stretch;
+  gap: 16px;
+}
+.definitionItems1,
+.frameParent,
+.governingLawParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.definitionItems1 {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.useOfGiftCards,
+.useOfGiftContainer {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.useOfGiftCards {
+  padding-left: 43px;
+}
+.useOfGiftContainer {
+  line-height: 120%;
+  font-weight: 400;
+}
+.giftCardsCan,
+.redemption,
+.useOfGiftContainer {
+  align-self: stretch;
+  position: relative;
+}
+.redemption {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftCardsCan {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemptionOptions {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.giftCardsAre,
+.nonTransferable {
+  align-self: stretch;
+  position: relative;
+}
+.nonTransferable {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftCardsAre {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemptionOptions1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.giftCardsAre1,
+.noCashRedemption {
+  align-self: stretch;
+  position: relative;
+}
+.noCashRedemption {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftCardsAre1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemptionOptions2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.expiration,
+.giftCardsDo {
+  align-self: stretch;
+  position: relative;
+}
+.expiration {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftCardsDo {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.redemptionOptions3 {
+  align-self: stretch;
+  gap: 16px;
+}
+.giftCardUse,
+.redemptionItems,
+.redemptionOptions3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.redemptionItems {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.giftCardUse {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.purchaseOfGiftCards {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.purchaseOfGiftContainer {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftCardsCan1,
+.purchaseOfGiftContainer,
+.purchasingChannels {
+  align-self: stretch;
+  position: relative;
+}
+.purchasingChannels {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftCardsCan1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.purchaseChannelItems {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.loadAmounts,
+.theMinimumAnd {
+  align-self: stretch;
+  position: relative;
+}
+.loadAmounts {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.theMinimumAnd {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.purchaseChannelItems1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.paymentMethods {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.acceptedPaymentMethods {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.purchaseChannelItems2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.confirmation {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.uponSuccessfulCompletion {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.purchaseChannelItems3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.usageRestrictions {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftCardsCannot {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.purchaseChannelItems4 {
+  align-self: stretch;
+  gap: 16px;
+}
+.purchaseChannelItems4,
+.purchaseChannels,
+.purchaseOptions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.purchaseChannels {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.purchaseOptions {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.governingLaw1,
+.governingLaw2 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.governingLaw2 {
+  padding-left: 43px;
+}
+.governingLaw1 {
+  line-height: 120%;
+  font-weight: 400;
+}
+.governingLaw1,
+.jurisdiction,
+.theseTermsAnd1 {
+  align-self: stretch;
+  position: relative;
+}
+.jurisdiction {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.theseTermsAnd1 {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.contact {
+  align-self: stretch;
+  gap: 16px;
+}
+.contact,
+.contactWrapper,
+.jurisdictionContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contactWrapper {
+  align-self: stretch;
+  font-size: 24px;
+}
+.jurisdictionContainer {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contactInformation,
+.contactInformation1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contactInformation1 {
+  padding-left: 43px;
+}
+.contactInformation {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.address123Main,
+.blankLine,
+.brandnameCustomerSupport,
+.byUsingBrandnames,
+.emailSupportbrandnamecom,
+.ifYouHave,
+.phone18001234567 {
+  margin: 0;
+}
+.ifYouHaveContainer {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.footerLogoContainer {
+  align-self: stretch;
+  align-items: flex-start;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.definitions,
+.footerContent,
+.footerLogoContainer,
+.termsandconditionspage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footerContent {
+  width: 1120px;
+  align-items: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.definitions,
+.termsandconditionspage {
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+.definitions {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+}
+.termsandconditionspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+}
+@media screen and (max-width: 1250px) {
+  .definitions {
+    gap: 32px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .termsAndConditions {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .definitions1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .definitionItems {
+    gap: 16px;
+  }
+  .generalProvisions {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .definitionItems1 {
+    gap: 16px;
+  }
+  .useOfGiftContainer {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .giftCardUse {
+    gap: 16px;
+  }
+  .purchaseOfGiftContainer {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .purchaseOptions {
+    gap: 16px;
+  }
+  .governingLaw1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .jurisdictionContainer {
+    gap: 16px;
+  }
+  .contactInformation {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .footerContent {
+    gap: 16px;
+  }
+  .definitions {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .termsAndConditions {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .acceptanceOfTerms,
+  .confirmation,
+  .contactInformation,
+  .definitions1,
+  .expiration,
+  .generalProvisions,
+  .giftCard,
+  .governingLaw,
+  .governingLaw1,
+  .jurisdiction,
+  .loadAmounts,
+  .modificationsToTerms,
+  .noCashRedemption,
+  .nonTransferable,
+  .paymentMethods,
+  .purchaseOfGiftContainer,
+  .purchasingChannels,
+  .redemption,
+  .usageRestrictions,
+  .useOfGiftContainer,
+  .user,
+  .website {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

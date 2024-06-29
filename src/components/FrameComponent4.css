@@ -1,0 +1,14 @@
+.backgroundshadow-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+@media screen and (max-width: 1225px) {
+  .backgroundshadow-parent1 {
+    flex-wrap: wrap;
+  }
+}

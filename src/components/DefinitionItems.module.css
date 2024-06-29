@@ -1,0 +1,99 @@
+.lostOrStolenGiftCards {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.lostOrStolenContainer {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lostOrStolenContainer,
+.responsibility,
+.yourCompanyIs {
+  align-self: stretch;
+  position: relative;
+}
+.responsibility {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.yourCompanyIs {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.responsibilityParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.safeguarding,
+.usersShouldKeep {
+  align-self: stretch;
+  position: relative;
+}
+.safeguarding {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.usersShouldKeep {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.safeguardingParent {
+  align-self: stretch;
+  gap: 16px;
+}
+.definitionItems,
+.frameParent,
+.safeguardingParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.definitionItems {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Merriweather;
+}
+@media screen and (max-width: 750px) {
+  .lostOrStolenContainer {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .definitionItems {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .lostOrStolenContainer,
+  .responsibility,
+  .safeguarding {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}
